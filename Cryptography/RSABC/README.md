@@ -17,7 +17,7 @@ Soal ini mirip dengan soal Easy as RSA pada TJCTF 2019. Langkah pertama yang dil
 p = 202049603951664548551555274464815496697
 q = 285934543893985722871321330457714807993
 ```
-Masukkan `n`, `e`, `c`, `p` dan `q` ke [solve.rb](). Gunakan terminal untuk menjalankan program ruby dan flag akan muncul langsung
+Masukkan `n`, `e`, `c`, `p` dan `q` ke [solve.rb](./solve.rb). Gunakan terminal untuk menjalankan program ruby dan flag akan muncul langsung
 `$ruby solve.rb`
 
 ## Flag
