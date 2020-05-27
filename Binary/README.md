@@ -1,1 +1,8 @@
-# TJCTF-2020-Bussyma-EAS-KWA
+## Binary
+* Tinder
+* Seashells
+* OSRS
+* El Primo
+* Stop
+* Cookie Library
+* Naughty
