@@ -1,5 +1,5 @@
 # Is This Crypto? - 50 points
-## Descyption
+## Description
 
 Is This Crypto?
 
