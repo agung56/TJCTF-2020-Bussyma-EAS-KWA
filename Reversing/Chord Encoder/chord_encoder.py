@@ -1,4 +1,4 @@
-f = open('song.txt').read()
+f = open('lagu2.txt').read()
 
 l = {'1':'A', '2':'B', '3':'C', '4':'D', '5':'E', '6':'F', '7':'G'}
 chords = {}
