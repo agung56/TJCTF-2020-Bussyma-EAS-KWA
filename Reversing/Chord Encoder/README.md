@@ -9,7 +9,7 @@ I tried creating my own [chords](./chords.txt), but my [encoded sheet music](./n
 
 1. Langkah pertama konversi isi dari [encoded sheet music](./notes.txt) ke bentuk [lagu1.txt](./lagu1.txt). 
 
-2. Kemudian konversi isi dari lagu.txt sesuai dengan [chords.txt](./chords.txt).
+2. Kemudian konversi isi dari lagu1.txt sesuai dengan [chords.txt](./chords.txt).
 Hasil konversi adalah [lagu2.txt](./lagu2.txt).
 
 3. Jalankan program [python](./chord_encoder.py) dan flag akan didapat.
